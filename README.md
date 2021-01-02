@@ -8,7 +8,7 @@ You can build quite simple dart-environment with docker-compose.
 
 ```
 $ docker-compose build
-$ docker-compose run --rm app dart main.dart
+$ docker-compose run --rm app main.dart
 ```
 
 ```
